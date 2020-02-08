@@ -1,0 +1,17 @@
+node	position
+1	President
+2	VP Account Services
+3	VP Creative Services
+4	VP Marketing Services
+5	VP Management Services
+6	Account Supervisor
+7	Account Supervisor
+8	Art/Copy
+9	Production
+10	Media
+11	Research
+12	Accounting
+13	Purchasing
+14	Personnel
+15	Account Executive
+16	Account Executive
